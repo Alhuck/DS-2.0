@@ -1,4 +1,4 @@
-package alhuck.challenges.hardlc;
+package alhuck.challenges.mediumlc;
 
 public class uniquePaths {
 
