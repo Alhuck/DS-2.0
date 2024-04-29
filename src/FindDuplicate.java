@@ -3,6 +3,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.stream.IntStream;
 
+//Array problems
 public class FindDuplicate {
 
     public static boolean containsDuplicate(int[] nums) {

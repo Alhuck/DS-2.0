@@ -1,5 +1,6 @@
 package alhuck.challenges.mediumlc;
 
+//Dynamic Programming
 public class LongestCommonSubsequence {
 
     public static int getLongestCommonSubsequence(String text1, String text2) {

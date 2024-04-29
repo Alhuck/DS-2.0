@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
+//Dynamic Programming
 public class ClimbingStairs {
 
     //

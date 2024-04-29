@@ -1,5 +1,6 @@
 package alhuck.challenges.mediumlc;
 
+//Dynamic Programming
 public class uniquePaths {
 
     // m = 3, n = 2
